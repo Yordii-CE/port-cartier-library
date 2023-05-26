@@ -1,4 +1,4 @@
-Libreria Port Cartier website created with the [easyflow](https://github.com/Yordii-CE/easyflow) framework and MySQL
+Libreria Port Cartier website created with the [easyflow](https://github.com/Yordii-CE/easyflow) framework and MySQL.
 
 ### Pages
 
